@@ -95,6 +95,12 @@ extension TextFieldEX on TextField {
     return setBorder(InputBorder.none);
   }
 
+
+  ///设置CounterText
+  TextField setCounterText(String num){
+    return copyWith(decoration: decoration?.copyWith(counterText: num));
+  }
+
   TextField copyWith({
     Key? key,
     TextEditingController? controller,
