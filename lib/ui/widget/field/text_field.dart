@@ -101,6 +101,11 @@ extension TextFieldEX on TextField {
     return copyWith(decoration: decoration?.copyWith(counterText: num));
   }
 
+  ///限制输入的内容
+  TextField setInputFormatters(List<TextInputFormatter>? inputFormatters){
+    return copyWith(inputFormatters: inputFormatters);
+  }
+
   TextField copyWith({
     Key? key,
     TextEditingController? controller,
