@@ -1,8 +1,7 @@
 Getting started
 
-Setting up the dependency
+The first step is to include Easy_ui into your project, for example:
 
-The first step is to include Easy_ui into your project, for example, as a Gradle compile dependency:
 1.Add configuration to pubspec.yaml file
 ~~~
  easy_ui:
