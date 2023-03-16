@@ -1,3 +1,7 @@
+easy_ui
+2.15
+file:///Users/gongzuolo/Downloads/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6%E5%A4%B9%202/easy_ui/
+file:///Users/gongzuolo/Downloads/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6%E5%A4%B9%202/easy_ui/lib/
 async
 2.12
 file:///Users/gongzuolo/develop/flutter/.pub-cache/hosted/pub.flutter-io.cn/async-2.8.2/
@@ -90,8 +94,4 @@ flutter_test
 2.12
 file:///Users/gongzuolo/develop/flutter/packages/flutter_test/
 file:///Users/gongzuolo/develop/flutter/packages/flutter_test/lib/
-easy_ui
-2.15
-file:///Users/gongzuolo/plugin/easy-ui/
-file:///Users/gongzuolo/plugin/easy-ui/lib/
 2
